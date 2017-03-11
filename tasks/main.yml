@@ -1,0 +1,2 @@
+---
+- include: supervisor-install-{{ ansible_distribution | lower }}.yml
